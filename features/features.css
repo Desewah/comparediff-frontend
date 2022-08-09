@@ -16,7 +16,10 @@ body {
 html {
   scroll-behavior: smooth;
 }
-
+.trial {
+  width: 1439px;
+  height: 1600px;
+}
 .firstContainer {
   /* Rectangle 1 */
 
