@@ -452,9 +452,9 @@
   /* Ellipse 15 */
 
   position: absolute;
-  left: 1200px;
+  left: 1260px;
   right: 0%;
-  top: 150px;
+  top: 120px;
   bottom: 0%;
 
   /* Foundation /Primary Blue/Normal */
@@ -569,9 +569,9 @@
   width: 30px;
   height: 30px;
   position: absolute;
-  left: 1215px;
+  left: 1275px;
   right: 0%;
-  top: 165px;
+  top: 134px;
   bottom: 0%;
 }
 
@@ -599,7 +599,7 @@
   color: #313b6a;
 }
 
-.features_features {
+#features_features {
   /* Features */
 
   position: absolute;
@@ -619,7 +619,7 @@
   color: #313b6a;
 }
 
-.features_about {
+#features_about {
   /* About */
 
   position: absolute;
@@ -639,7 +639,7 @@
   color: #313b6a;
 }
 
-.features_contact {
+#features_contact {
   /* Contact */
 
   position: absolute;
@@ -659,7 +659,7 @@
   color: #313b6a;
 }
 
-.features_login {
+#features_login {
   /* Log in */
 
   position: absolute;
@@ -679,7 +679,7 @@
   color: #313b6a;
 }
 
-.features_signup {
+#features_signup {
   /* Button */
   position: absolute;
   width: 56px;
@@ -696,4 +696,27 @@
   /* identical to box height, or 24px */
 
   color: #313b6a;
+}
+
+#features_features:hover {
+  color: #6e83ec;
+}
+#features_features:active {
+  color: #6e83ec;
+}
+#features_about:hover {
+  color: #6e83ec;
+}
+
+#features_contact:hover {
+  color: #6e83ec;
+}
+#features_logo:hover {
+  color: #6e83ec;
+}
+#features_login:hover {
+  color: #6e83ec;
+}
+#features_signup:hover {
+  color: #6e83ec;
 }
