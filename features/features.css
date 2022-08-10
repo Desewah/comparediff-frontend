@@ -1,6 +1,6 @@
 #featuresBody {
-  width: 100%;
-  height: 100%;
+  width: 1440;
+  height: 3011;
   overflow-x: hidden;
 }
 
@@ -577,4 +577,123 @@
 
 #featuresFirstButton:hover {
   background: #6e83ec;
+}
+
+#features_logo {
+  /* CompareDiff */
+
+  position: absolute;
+  width: 195px;
+  height: 39px;
+  left: 80px;
+  top: 28px;
+
+  font-family: "Romana BT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+  letter-spacing: -0.02em;
+
+  color: #313b6a;
+}
+
+.features_features {
+  /* Features */
+
+  position: absolute;
+  width: 85px;
+  height: 24px;
+  left: 307px;
+  top: 37px;
+
+  /* Body/b3 */
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  /* identical to box height, or 24px */
+
+  color: #313b6a;
+}
+
+.features_about {
+  /* About */
+
+  position: absolute;
+  width: 85px;
+  height: 24px;
+  left: 463px;
+  top: 37px;
+
+  /* Body/b3 */
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  /* identical to box height, or 24px */
+
+  color: #313b6a;
+}
+
+.features_contact {
+  /* Contact */
+
+  position: absolute;
+  width: 84px;
+  height: 24px;
+  left: 628px;
+  top: 37px;
+
+  /* Body/b3 */
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  /* identical to box height, or 24px */
+
+  color: #313b6a;
+}
+
+.features_login {
+  /* Log in */
+
+  position: absolute;
+  width: 79px;
+  height: 24px;
+  left: 1167px;
+  top: 36px;
+
+  /* Body/b3 */
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  /* identical to box height, or 24px */
+
+  color: #313b6a;
+}
+
+.features_signup {
+  /* Button */
+  position: absolute;
+  width: 56px;
+  height: 24px;
+  left: 1250px;
+  top: 36px;
+
+  /* Header/h6 */
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  /* identical to box height, or 24px */
+
+  color: #313b6a;
 }
