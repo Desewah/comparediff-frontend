@@ -17,7 +17,7 @@
   scroll-behavior: smooth;
 }
 
-.firstContainer {
+.featuresFirstContainer {
   /* Rectangle 1 */
 
   width: 1439px;
@@ -80,7 +80,7 @@
   color: var(--color-h2);
 }
 
-#firstButton {
+#featuresFirstButton {
   /* Primary Button with Icon */
 
   position: absolute;
@@ -325,7 +325,7 @@
 
   color: #ffffff;
 }
-#section1 {
+#features_section1 {
   /* Rectangle 157 */
 
   position: absolute;
@@ -337,7 +337,7 @@
   /* Foundation /Primary Blue/Normal */
   background: #ff7f81;
 }
-#section2 {
+#features_section2 {
   /* Rectangle 159 */
 
   position: absolute;
@@ -349,7 +349,7 @@
   /* Foundation /Primary Blue/Normal :hover */
   background: #6376d4;
 }
-#section3 {
+#features_section3 {
   /* Footer bg */
 
   position: absolute;
@@ -366,7 +366,7 @@
   src: url("logo_font/ROMANAB.TTF");
 }
 
-#logo {
+#features_logo1 {
   /* CompareDiff */
 
   position: absolute;
@@ -385,7 +385,7 @@
 
   color: #ffffff;
 }
-#policy {
+#features_policy {
   /* Privacy Policy */
 
   position: absolute;
@@ -405,7 +405,7 @@
   color: #ffffff;
 }
 
-#services {
+#features_services {
   /* Terms of Service */
 
   position: absolute;
@@ -425,7 +425,7 @@
   color: #ffffff;
 }
 
-#docs {
+#features_docs {
   /* Documentation */
 
   position: absolute;
@@ -445,7 +445,7 @@
   color: #ffffff;
 }
 
-#backToTop {
+#featuresBackToTop {
   width: 60px;
   height: 60px;
   border-radius: 50%;
@@ -460,7 +460,7 @@
   /* Foundation /Primary Blue/Normal */
   background: #6e83ec;
 }
-#csv {
+#features_csv {
   width: 80px;
   height: 80px;
   /* Vector */
@@ -472,7 +472,7 @@
   bottom: 59.5%;
 }
 
-#arrow {
+#features_arrow {
   width: 60px;
   height: 60px;
   /* Vector */
@@ -484,12 +484,12 @@
   bottom: 46.88%;
 }
 
-.excel {
+.features_excel {
   width: 80px;
   height: 80px;
 }
 
-#excel1 {
+#features_excel1 {
   /* Vector */
 
   position: absolute;
@@ -499,7 +499,7 @@
   bottom: 59.47%;
 }
 
-#excel2 {
+#features_excel2 {
   /* Vector */
 
   position: absolute;
@@ -509,7 +509,7 @@
   bottom: 59.47%;
 }
 
-#excel3 {
+#features_excel3 {
   /* Vector */
 
   position: absolute;
@@ -519,7 +519,7 @@
   bottom: 59.47%;
 }
 
-#arrow2 {
+#features_arrow2 {
   width: 70px;
   height: 70px;
   /* Vector */
@@ -533,7 +533,7 @@
   transform: matrix(1, 0, 0, -1, 0, 0);
 }
 
-#excel4 {
+#features_excel4 {
   /* Vector */
 
   position: absolute;
@@ -543,7 +543,7 @@
   bottom: 35.46%;
 }
 
-#excel5 {
+#features_excel5 {
   /* Vector */
 
   position: absolute;
@@ -553,7 +553,7 @@
   bottom: 34.92%;
 }
 
-#pdf {
+#features_pdf {
   width: 90px;
   height: 90px;
   /* Vector */
@@ -565,7 +565,7 @@
   bottom: 34.71%;
 }
 
-#arrow3 {
+#features_arrow3 {
   width: 30px;
   height: 30px;
   position: absolute;
@@ -575,6 +575,6 @@
   bottom: 0%;
 }
 
-#firstButton:hover {
+#featuresFirstButton:hover {
   background: #6e83ec;
 }
